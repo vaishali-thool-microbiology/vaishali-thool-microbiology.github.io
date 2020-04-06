@@ -1,0 +1,20 @@
+.main{
+	padding : 50px;
+
+}
+.profile-image{
+	
+	float: left;
+	height: 300px;
+	padding: 30px;
+
+}
+.intro{
+	
+}
+.image-container{
+	padding-right: 10px;
+}
+.student-corner{
+	padding-top: 50px;
+}
