@@ -1,23 +1,23 @@
 .page{
 	background-color: honeydew;
+	align-items: center;
 }
 .main{
-	padding : 50px;
-
+	
 }
 .profile-image{
 	
-	float: left;
 	height: 300px;
-	padding: 30px;
-
-}
-.intro{
-	
+	border-radius: 50%;
+	float: left;
 }
 .image-container{
-	padding-right: 10px;
+}
+.intro{
+	text-align: justify;
+	  text-justify: inter-word;
+	
 }
 .student-corner{
-	padding-top: 50px;
+	
 }
