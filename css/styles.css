@@ -8,12 +8,13 @@
 }
 .profile-image{
 	
-	height: 6cm;
+	height: 200px;
 	border-radius: 50%;
 	padding:1cm;
 }
 .icon{
-	height: 6cm;
+	height: 200px;
+	border-radius: 50%;
 	float: left;
 	padding: 1cm;
 }
@@ -22,7 +23,6 @@
 	text-align: justify;
 	text-justify: inter-word;
 	padding: 1cm;
-	
 }
 .about-me{
 	color: rgb(69, 71, 68);
@@ -32,4 +32,10 @@
 .student-corner{
 	padding: 1cm;
 	
+}
+.heading1{
+	font-size: 40px;
+}
+.heading2{
+	font-size: 20px;
 }
