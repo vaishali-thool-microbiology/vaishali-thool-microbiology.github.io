@@ -1,7 +1,5 @@
 .page{
 	background-color: honeydew;
-	align-items: center;
-	font-family: Arial, Helvetica, sans-serif;
 }
 .main{
 	
@@ -15,27 +13,6 @@
 .icon{
 	height: 200px;
 	border-radius: 50%;
-	float: left;
-	padding: 1cm;
-}
-
-.intro{
-	text-align: justify;
-	text-justify: inter-word;
-	padding: 1cm;
-}
-.about-me{
-	color: rgb(69, 71, 68);
-	font-size: 15px;
-
-}
-.student-corner{
-	padding: 1cm;
 	
-}
-.heading1{
-	font-size: 40px;
-}
-.heading2{
-	font-size: 20px;
+	padding: 1cm;
 }
